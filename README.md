@@ -12,6 +12,8 @@ As I'm still learning, I've used refrences throughout the process.
 ## Live Demo 
 [Portfolio](https://kokonutzlabs.github.io/Portfolio-Site/)
 
+## Updates
+This is an old layout, I am currently working on a new one 11/6/2025
 
 
 
