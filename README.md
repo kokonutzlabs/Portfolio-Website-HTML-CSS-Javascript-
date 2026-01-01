@@ -12,7 +12,7 @@ This is just a fun project to understand how HTML, CSS, and Javascript work for 
 - [W3Schools](https://www.w3schools.com/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 ## Live Demo 
-[Portfolio](https://kokonutzlabs.github.io/Portfolio-Site/)
+[Portfolio](https://kokonutzlabs.github.io/Portfolio_Site_v1/)
 ## Other Option to View my Project:
 1. Get VS Code
 2. Download the Live Preview Extension
