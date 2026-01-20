@@ -21,6 +21,7 @@ This project was independently developed to gain a fundamental understanding of 
 7. The project will open in your local browser.
 ## **Future Improvements**
 As my understanding of HTML and front-end development has grown, I plan to create a revised version of this portfolio using proper semantic HTML and improved accessibility.
+
 Last updated: January 19, 2025
 
 
