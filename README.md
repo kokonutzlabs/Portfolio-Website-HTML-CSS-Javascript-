@@ -12,15 +12,17 @@ This project was independently developed to gain a fundamental understanding of 
 ## **Live Demo:**
 - [Portfolio](https://www.w3schools.com/)
 ## **Alternative Method to View the Project Locally**
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+1. Download all project files and folders.
+2. Place all downloaded files into a single directory.
+3. Install Visual Studio Code.
+4. Install the Live Preview extension.
+5. Open the project folder in Visual Studio Code.
+6. Right-click the .html file and select Live Preview.
+7. The project will open in your local browser.
 ## **Future Improvements**
-I am constantly coming up with different ways to change my site, so enjoy the latest version! 11/6/2025
+As my understanding of HTML and front-end development has grown, I plan to create a revised version of this portfolio using proper semantic HTML and improved accessibility.
+Last updated: January 19, 2025
+
 
 
 
