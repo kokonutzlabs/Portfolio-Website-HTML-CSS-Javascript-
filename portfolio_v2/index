@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="A portfolio site about Fuzzykokonutz">
+    <meta name="keywords" description="HTML,CSS,Javascript">
+    <meta name="author" content="Fuzzykokonutz">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fuzzy's World</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="homepage.css">
+</head>
+
+<body>
+<header>
+<section class="logo">
+</section>
+<nav>
+</nav>
+</header>
+<marquee>Check out my latest youtube video!!</marquee>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VOxxgMIIFfA?si=O8AfFEoM2BtcLn_9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<footer>
+    <p>© 2024 Fuzzykokonutz. All rights reserved.</P>
+</footer>
+
+</body>
+</html>
