@@ -11,7 +11,7 @@ This project was independently developed to gain a fundamental understanding of 
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 ## **Live Demo:**
 - Version1: [PortfolioSite.html](https://raw.githack.com/kokonutzlabs/Portfolio-Website-HTML-CSS-Javascript-/main/portfolio/index/index.html)
-- Version2: [PortfolioSite_2.html](https://raw.githack.com/kokonutzlabs/Portfolio-Website-HTML-CSS-Javascript-/main/portfolio_v2/index)
+- Version2: [Revised PortfolioSite.html](https://raw.githack.com/kokonutzlabs/Portfolio-Website-HTML-CSS-Javascript-/main/portfolio_v2/index)
     
 ## **Alternative Method to View the Project Locally**
 1. Download all project files and folders.
