@@ -250,7 +250,7 @@
         </footer>
 
         <!--For the slideshows-->
-        <script src="homepagedesign.js" defer></script>
+        <script src="../.JS/homepagedesign.js" defer></script>
         
     </body>
 
