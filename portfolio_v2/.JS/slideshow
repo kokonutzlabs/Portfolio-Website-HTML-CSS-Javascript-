@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
     let slideIndex = [1, 1];
-    let slideId = ["ArtSlides", "NailSlides"];
+    let slideId = ["ArtSS", "NailSS"];
 
     function showSlides(n, no) {
         const slides = document.getElementsByClassName(slideId[no]);
