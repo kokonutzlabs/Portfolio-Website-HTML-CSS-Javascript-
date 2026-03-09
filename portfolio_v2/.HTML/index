@@ -8,7 +8,7 @@
         <link rel="icon" type="image/x-icon" href="https://64.media.tumblr.com/8b540ea4822b8be348f94cf2a0acfde6/e41345b50691e398-9c/s75x75_c1/5d202781295535b19a4add826a604d23e6766498.gifv">
         <!---https://64.media.tumblr.com/8b540ea4822b8be348f94cf2a0acfde6/e41345b50691e398-9c/s75x75_c1/5d202781295535b19a4add826a604d23e6766498.gifv-->
         <title>koko's portfolio</title>
-        <link rel="stylesheet" href="../.CSS/home_page_design.css">
+        <link rel="stylesheet" href="../CSS/home_page_design.css">
     </head>
     
     <body>
@@ -251,7 +251,7 @@
         </footer>
 
         <!--For the slideshows-->
-        <script src="../.JS/homepagedesign.js" defer></script>
+        <script src="../JS/homepagedesign.js" defer></script>
         
     </body>
 
