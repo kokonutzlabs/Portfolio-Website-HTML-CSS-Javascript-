@@ -12,6 +12,9 @@ body {
     margin: 0;
     padding: 0;
 }
+main {
+   max-width: 750px;
+}
 /* Make logo and nav-links line up horizontally */
 .nav-container {
   display: flex;
@@ -270,10 +273,11 @@ body {
 }
  /* Footer */
   footer { 
-    color: black;  
-    text-align: center;
-    padding: 20px;
-    font-size: 18px;
+   color: black;  
+   text-align: center;
+   background-color: #ffc7fd;
+   padding: 20px;
+   font-size: 18px;
 }
   footer p {
     margin: 0;
