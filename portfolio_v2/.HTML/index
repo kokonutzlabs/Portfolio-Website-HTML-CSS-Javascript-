@@ -62,7 +62,7 @@
     
     <!--sections for the site-->
         <!--music player-->
-        <main id="MP" class="main_section">
+        <section id="MP" class="main_section">
             <div id="music_player">
               <div class="iframe_container">
               
@@ -178,18 +178,19 @@
                   <img src="" alt="Poject1" width="24" height="24">
                   <div class="nav-label">Project1</div>
               </a></li>
-              <li>
+              
               <li>
                 <a href="https://github.com/kokonutzlabs/Ticketing-Phishing-Incident">
                   <img src="" alt="Project2" width="24" height="24">
                   <div class="nav-label">Project2</div>
               </a></li>
+
               <li>
                 <a href="https://github.com/kokonutzlabs/Networking-Prevention-Measure">
                 <img src="" alt="Project3" width="24" height="24">
                 <div class="nav-label">Project3</div>
               </a></li>
-              <li>
+              
             </ul>
             
             </div>
