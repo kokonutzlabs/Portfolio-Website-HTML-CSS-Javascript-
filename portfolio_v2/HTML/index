@@ -62,7 +62,8 @@
     
     <!--sections for the site-->
         <!--music player-->
-        <section id="MP" class="main_section">
+        <main id="MP" class="main_section">
+        <section>
             <div id="music_player">
               <div class="iframe_container">
               
